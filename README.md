@@ -5,6 +5,8 @@ This is a Rainmeter skin that will solve Sudoku puzzles.  It uses my Lua impleme
 
 The coolest script feature is a "bullet time" mode - when it's on, the Lua script will update the skin every time the algorithm assigns a value to a cell, so you can watch the program solve the puzzle in slow motion.  For example, [here's a .gif](http://i.imgur.com/cQxJ4r1.gif) showing the skin solving [Arto Inkala's 2010 puzzle](http://www.dailymail.co.uk/news/article-1304222/It-took-months-create-long-crack--worlds-hardest-Sudoku.html).  It can be turned on and off by using the skin's context menu.
 
+![animation](http://i.imgur.com/cQxJ4r1.gif)
+
 *How to use:*
 
 - Left-click a cell to show a digit chooser for that cell
